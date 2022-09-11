@@ -1,8 +1,6 @@
 body{
     text-align: center;
-    background-color: gray;
 }
 canvas{
-    border-radius: 25px;
-    background-color: white;
+    border:5px dashed darkorchid;
 }
